@@ -1,0 +1,17 @@
+# Ignorar carpeta del proyecto 1
+01_imc/
+
+# Carpetas no versionables del proyecto 2
+proyecto-2-hoja-calculo/build/
+proyecto-2-hoja-calculo/bin/
+proyecto-2-hoja-calculo/doc/
+
+# Archivos compilados
+*.class
+
+# VSCode
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
