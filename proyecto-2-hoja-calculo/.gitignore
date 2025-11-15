@@ -1,0 +1,16 @@
+
+*.class
+bin/
+build/
+out/
+doc/
+
+# BlueJ files
+*.ctxt
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
