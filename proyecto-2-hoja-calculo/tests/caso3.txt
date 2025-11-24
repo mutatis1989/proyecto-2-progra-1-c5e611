@@ -1,0 +1,19 @@
+5 5
+1/1, 2/1, 3/1, 4/1, 5/1
+2/1, 3/1, 4/1, 5/1, 6/1
+3/1, 4/1, 5/1, 6/1, 7/1
+4/1, 5/1, 6/1, 7/1, 8/1
+5/1, 6/1, 7/1, 8/1, 9/1
+=SET(diagonalAlta, A1, B2, C3, D4, E5)
+=SET(diagonalBaja, A5, B4, C3, D2, E1)
+=SUM(diagonalAlta)
+=MUL(diagonalBaja)
+=CEL(E1)
+=AVR(A1:E5)
+=CEL(A5)
+=MDN(A1:E5)
+=MIN(A1:E5)
+=MAX(A1:E5)
+=PRINT(diagonalAlta)
+=PRINT(diagonalBaja)
+=PRINT()

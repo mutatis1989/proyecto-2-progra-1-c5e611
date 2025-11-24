@@ -57,7 +57,7 @@ proyecto2-hoja-calculo/
 │ ├── Fraccion.java
 │ ├── ListaDeFracciones.java
 │ ├── ArbolDeListas.java
-│ └── (otras clases si aplican)
+│ └── NodoDelArbol.java
 │
 ├── tests/
 │ ├── caso1.txt
@@ -135,6 +135,12 @@ java -cp build Controlador < tests/caso1.txt
 
 jar cfe hoja-calculo.jar Controlador -C build .
 java -jar hoja-calculo.jar < tests/caso1.txt
+
+**Programas utilizados**
+
+Se utilizó VSC como IDE para la ejecución del proyecto.
+El sitio www.plantuml.com se utilizó para crear el diagrama UML del proyecto.
+Como repositorio se utilizó la plataforma de Github. La dirección del repositorio es: https://github.com/mutatis1989/proyecto-2-progra-1-c5e611
 
 **Créditos**
 
